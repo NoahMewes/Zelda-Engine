@@ -1,0 +1,1727 @@
+fileFormatVersion: 2
+guid: 6ecb346fd78ae1241bc1792e923f3f18
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_0
+    21300002: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_1
+    21300004: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_2
+    21300006: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_3
+    21300008: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_4
+    21300010: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_5
+    21300012: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_6
+    21300014: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_7
+    21300016: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_8
+    21300018: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_9
+    21300020: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_10
+    21300022: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_11
+    21300024: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_12
+    21300026: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_13
+    21300028: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_14
+    21300030: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_15
+    21300032: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_16
+    21300034: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_17
+    21300036: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_18
+    21300038: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_19
+    21300040: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_20
+    21300042: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_21
+    21300044: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_22
+    21300046: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_23
+    21300048: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_24
+    21300050: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_25
+    21300052: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_26
+    21300054: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_27
+    21300056: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_28
+    21300058: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_29
+    21300060: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_30
+    21300062: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_31
+    21300064: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_32
+    21300066: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_33
+    21300068: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_34
+    21300070: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_35
+    21300072: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_36
+    21300074: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_37
+    21300076: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_38
+    21300078: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_39
+    21300080: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_40
+    21300082: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_41
+    21300084: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_42
+    21300086: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_43
+    21300088: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_44
+    21300090: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_45
+    21300092: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_46
+    21300094: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_47
+    21300096: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_48
+    21300098: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_49
+    21300100: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_50
+    21300102: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_51
+    21300104: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_52
+    21300106: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_53
+    21300108: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_54
+    21300110: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_55
+    21300112: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_56
+    21300114: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_57
+    21300116: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_58
+    21300118: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_59
+    21300120: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_60
+    21300122: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_61
+    21300124: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_62
+    21300126: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_63
+    21300128: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_64
+    21300130: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_65
+    21300132: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_66
+    21300134: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_67
+    21300136: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_68
+    21300138: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_69
+    21300140: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_70
+    21300142: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_71
+    21300144: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_72
+    21300146: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_73
+    21300148: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_74
+    21300150: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_75
+    21300152: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_76
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27dba5f7ac7cd47bc911c1385beb03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3b138a01b53b47a0efd0cfd21390e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef6418a83d20484895fd069b5aee3c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68d83274725cd443ab077b8552b6437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d0f89910572946b07cfa5a328960b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69e6870fe167b4697565958719b707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef54416de9cee334aabf64bf259be3f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744087110dbe7554c89ce8d799eab276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7564e5840d7143ade32077e2f7f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e62a2f5ccd16947b8d447bd6926359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829b3dd146fe4f9488aeb64a54f9c8dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a1fb2b601c7644e80775213d819689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950898bd169528d49ac8cdad39c5a831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1525270cb07cc234aba9abc4262f2880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35041f2968f4ce743830e5e03bb4ab62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4451ba1456f2304194ebb076e7897f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64b6dc89a8bee4488f6ace9399d0d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e745c2a72eaf409d059eaf9777b58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9d08e85bd3d454286bfae65ea44f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8ab2a82d7e3c845806d3968f52d8c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b41cf64cd40114cae6672f9817c014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1a084eb200eed43927d8cb769fa36a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74bd4b7834e04f4bb03d8df4f04f3b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4374fe7a350c2684fb3b8e2f0a6a4291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10afd847ff0d9947955b8c6f73b4e30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117915db11cde14ebe97804817ef367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62871b9bebf33a4e9b34b2b47f75912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb82356422474b45b7079721eef2c53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ddf0a59b9bc6840b383c8b1b2f83a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f475f1d28bd6840be9b538652ffdf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4e2c99ddc23b4da3359c6937d0a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44315f99281ac344babee12aecacfd1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192a3c311e1e6d408f13f01ee818530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a61974cacffe4f8e10c029e3b215d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be368c4891750b943834c2c7a7bf6abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542357e6c970af4ea67f2d6948ab2b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af98b281392dc4ea018c6f8892a09c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0e1494b7cf332418fb884b3e4bd26f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db052f6bb5d318f4d87a2902c31e15ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bae8e1c3c99be4ca3518d8593c4dc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aef735b239ddb449be92589bd88969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6453f6e7899e3ad4c8aae21efdc94b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113102ab0f6c8ea498ccdaafb0c7c6ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9b4c6b77b1bc4882c24bd9d8769bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26e32c946e0aae43b8a787ae7f20f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a46357195d703409c9c288bd58da95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231b8e8489f77f847b63d2074cd9bfe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c26a85a1613d469ea4ac100a1bccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d45fe8c5f71e347af3f51ee61aaebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249581f1b2cf36e498b6b395cd936bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be09be86fdef044870352333890ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0511d6cddb610e4793e65c8874e6818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e3d000822345c4385d07bd90ee8da6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b0540bb8096ad4eb5a616c9a99a071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4060bee344d6404cab42c87a5d32cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c694fe338c4d7146a19faaecd67695d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5a2fa47f4b144196d15e161145302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe04591dcd4f32488e5b2ef931a614b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ef13ca21b07ff4b8ecc68ca1c54d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79cdd13ac784044eadc82e3711b1222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc93a81219b1a4186c5e2678d6a2a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d7905ac476e4040afc4d165fd2f853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ecc2c24cf382842bfbed810ccdab8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833f364c4e00054d9e4aab70fb03724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553fa5b995d337459a6e85ff256cb14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8f6b21cf5377468fa9bfbf7712398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d484c1a5e91f1840b0c0004c408b397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36778a7150ae50042a249138fce8c53f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132688b7890e1c14aab52512877a90ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e6fba904a6e0d40a2228488d6b204e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96997ea9cf0ae478e2b3dd246c5474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d540b8d62d9e13439a82ad7669bc7a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60151693f7aed7b4c87f714a9488cdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0687b8f086791b4aa7172dd1db7d869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05eca336a05b4e46933fe31d28f5980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74fb4e7f83f4cb45942f67f57ebeb81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - The Legend of Zelda Links Awakening DX - House Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3689a5e22b838bd4bb76d496c99358f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e704e7665cf9e747a4e2c98473eceaa
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

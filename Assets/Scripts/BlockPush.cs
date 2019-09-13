@@ -48,14 +48,18 @@ public class BlockPush : MonoBehaviour
 
     private void Start()
     {
-        if (visibility == TargetAction.SHOW)
+        if (targetObject != null)
         {
-            targetObject.SetActive(false);
+            if (visibility == TargetAction.SHOW)
+            {
+                targetObject.SetActive(false);
+            }
+            if (visibility == TargetAction.HIDE)
+            {
+                targetObject.SetActive(true);
+            }
         }
-        if (visibility == TargetAction.HIDE)
-        {
-            targetObject.SetActive(true);
-        }
+       
     }
 
     private void Update()
@@ -77,14 +81,16 @@ public class BlockPush : MonoBehaviour
                 }
 
                 startPos = transform.position;
-
-                if (visibility == TargetAction.SHOW)
+                if (targetObject != null)
                 {
-                    targetObject.SetActive(true);
-                }
-                if(visibility == TargetAction.HIDE)
-                {
-                    targetObject.SetActive(false);
+                    if (visibility == TargetAction.SHOW)
+                    {
+                        targetObject.SetActive(true);
+                    }
+                    if (visibility == TargetAction.HIDE)
+                    {
+                        targetObject.SetActive(false);
+                    }
                 }
             }
         }
