@@ -171,38 +171,46 @@ TextureImporter:
     21300332: Link_170
     21300334: Link_171
     21300336: Link_172
-    21300338: Link_173
+    21300338: Spin5
     21300340: Link_174
     21300342: Link_175
     21300344: Link_176
-    21300346: Link_177
+    21300346: Spin6
     21300348: Link_178
     21300350: Link_179
-    21300352: Link_180
-    21300354: Link_181
-    21300356: Link_182
+    21300352: Spin7
+    21300354: Spin8
+    21300356: charge1
     21300358: Link_183
-    21300360: Link_184
+    21300360: charge2
     21300362: Link_185
     21300364: Link_186
     21300366: Link_187
     21300368: Link_188
-    21300370: Link_189
+    21300370: charge3
     21300372: Link_190
-    21300374: Link_191
-    21300376: Link_192
-    21300378: Link_193
-    21300380: Link_194
-    21300382: Link_195
-    21300384: Link_196
-    21300386: Link_197
-    21300388: Link_198
+    21300374: charge4
+    21300376: charge5
+    21300378: charge6
+    21300380: charge7
+    21300382: charge8
+    21300384: charge9
+    21300386: charge10
+    21300388: charge11
     21300390: Link_199
-    21300392: Link_200
+    21300392: charge12
     21300394: Link_201
     21300396: Link_202
     21300398: Link_203
     21300400: Link_204
+    21300402: Spin1
+    21300404: Spin2
+    21300406: Spin3
+    21300408: Spin4
+    21300410: RightCharge1
+    21300412: RightCharge2
+    21300414: RightCharge3
+    21300416: RightCharge4
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -2219,9 +2227,9 @@ TextureImporter:
       name: Link_96
       rect:
         serializedVersion: 2
-        x: 0
-        y: 677
-        width: 16
+        x: 2
+        y: 678
+        width: 12
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2239,10 +2247,10 @@ TextureImporter:
       name: Link_97
       rect:
         serializedVersion: 2
-        x: 17
-        y: 677
-        width: 16
-        height: 16
+        x: 18
+        y: 678
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2280,8 +2288,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 660
-        width: 16
+        y: 661
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2300,9 +2308,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 660
-        width: 16
-        height: 16
+        y: 661
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2359,10 +2367,10 @@ TextureImporter:
       name: Link_103
       rect:
         serializedVersion: 2
-        x: 0
-        y: 643
-        width: 16
-        height: 16
+        x: 1
+        y: 645
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2380,7 +2388,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 643
+        y: 644
         width: 16
         height: 16
       alignment: 0
@@ -3100,7 +3108,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
-        y: 541
+        y: 542
         width: 16
         height: 16
       alignment: 0
@@ -3971,6 +3979,486 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fe60ecd6f52404c4ba2831838ddee731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 329
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.28726378, y: 0.7156623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9be485bffb5d94291c26a74d34eede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 341
+        width: 30
+        height: 15
+      alignment: 9
+      pivot: {x: 0.27463773, y: 0.5183085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d067ddee36d6634eaf437aeba743c5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.28976086, y: 0.28251213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b031150ecb733a4882c7501f06bb16f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 18
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5983687, y: 0.2858099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6e224fc733f1644b6cdb04475677fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 292
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7216129, y: 0.32007164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133323b02f44b914b8e9cc201b13601e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 292
+        width: 30
+        height: 15
+      alignment: 9
+      pivot: {x: 0.75927174, y: 0.533726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6059e406cac9614198f3a9f337b6a6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 281
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.738895, y: 0.6784188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b758c5271313248bc1005b6ae39287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spin8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 277
+        width: 15
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45418194, y: 0.7171602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8261301edc9f44d4b89f17cf2fd9c567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.42733917, y: 0.7487248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5809f736f963c94f8fe435719d754a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 249
+        width: 13
+        height: 28
+      alignment: 9
+      pivot: {x: 0.39165366, y: 0.74593025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1959e95ca6455db49a9e3d1db5675374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 249
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.43292835, y: 0.7459292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4747599293352754796fa2ee8888ac87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 249
+        width: 13
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3856342, y: 0.74593025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faab3064467d9bd4899a2f9ef860a052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 250
+        width: 14
+        height: 26
+      alignment: 9
+      pivot: {x: 0.57266074, y: 0.3103943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4977eb2e87ab5324f845007406281cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 250
+        width: 13
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4638842, y: 0.3013658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ac9a467155565459e0c85e9d04b8c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 250
+        width: 13
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5240766, y: 0.3013658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac57206a1d8d85419b0a4d496cfd3f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 250
+        width: 13
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4638842, y: 0.31340498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70718096fa1acc24ba886df873f14fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 25
+        height: 16
+      alignment: 9
+      pivot: {x: 0.7574416, y: 0.56373596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1420731281a00843904a79366e3af76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 226
+        width: 25
+        height: 15
+      alignment: 9
+      pivot: {x: 0.7594975, y: 0.54518634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e5943f486fac4eb3b5a7a9dd6ca60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 226
+        width: 25
+        height: 16
+      alignment: 9
+      pivot: {x: 0.7517514, y: 0.5726204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d195a446d317242b103665ba1c440b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 226
+        width: 25
+        height: 15
+      alignment: 9
+      pivot: {x: 0.7594977, y: 0.54518634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa999f2b728eb2418fe770ae3b905ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCharge1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 207
+        width: 25
+        height: 15
+      alignment: 9
+      pivot: {x: 0.23825279, y: 0.5189677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39436fd49392eff4d9d24b4ebb5771f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCharge2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 207
+        width: 25
+        height: 16
+      alignment: 9
+      pivot: {x: 0.24963318, y: 0.5711279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbaddb394fab594ca013419c8bb75fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCharge3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 207
+        width: 26
+        height: 15
+      alignment: 9
+      pivot: {x: 0.270205, y: 0.52845156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e0eee80ea83041bb1fdaeca8ba489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightCharge4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 207
+        width: 24
+        height: 17
+      alignment: 9
+      pivot: {x: 0.21549225, y: 0.5167371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04be63e47a8324f95fb49322df0525
       vertices: []
       indices: 
       edges: []

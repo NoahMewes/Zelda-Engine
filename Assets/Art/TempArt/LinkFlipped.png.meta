@@ -2279,10 +2279,10 @@ TextureImporter:
       name: LinkFlipped_101
       rect:
         serializedVersion: 2
-        x: 126
-        y: 155
-        width: 16
-        height: 16
+        x: 127
+        y: 156
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2299,9 +2299,9 @@ TextureImporter:
       name: LinkFlipped_102
       rect:
         serializedVersion: 2
-        x: 143
-        y: 155
-        width: 16
+        x: 144
+        y: 156
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
